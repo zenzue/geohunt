@@ -12,6 +12,7 @@ Location Tracking application is designed for educational and demonstration purp
 - Docker containerization for easy deployment and scalability.
 - CORS configuration for specific domains.
 - Basic front-end with JavaScript for user interaction.
+- Collect the Location,TP and webcam snap
 
 ## Installation and Usage
 To run this application, you need Docker and Docker Compose installed on your system. Follow these steps to get started:
